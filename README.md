@@ -15,6 +15,4 @@ Entendendo conceitos de:
 
 ### UML da classe ContaBanco desenvolvida:
 
-![img.png](img.png)
-
 ![img_1.png](img_1.png)
